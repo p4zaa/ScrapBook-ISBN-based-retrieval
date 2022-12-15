@@ -1,11 +1,11 @@
 Scrapping Books Data from Book's ISBN
 ======================================
 **In this article**
- * [Short Background](Chaloklum-Books/README.md#short-background)
- * [Tools](Chaloklum-Books/README.md#tools)
- * [Book's ISBN Collecting Process](Chaloklum-Books/README.md#books-isbn-collecting-process)
- * [Collected Dataset](Chaloklum-Books/README.md#collected-dataset)
- * [Problems and Obstacles Encountered](Chaloklum-Books/README.md#problems-and-obstacles-encountered)
+ * [Short Background](https://github.com/p4zaa/Chaloklum-Books/blob/main/Chaloklum-Books/README.md#short-background)
+ * [Tools](https://github.com/p4zaa/Chaloklum-Books/blob/main/Chaloklum-Books/README.md#tools)
+ * [Book's ISBN Collecting Process](https://github.com/p4zaa/Chaloklum-Books/blob/main/Chaloklum-Books/README.md#books-isbn-collecting-process)
+ * [Collected Dataset](https://github.com/p4zaa/Chaloklum-Books/blob/main/Chaloklum-Books/README.md#collected-dataset)
+ * [Problems and Obstacles Encountered](https://github.com/p4zaa/Chaloklum-Books/blob/main/Chaloklum-Books/README.md#problems-and-obstacles-encountered)
 
 # Short Background
 All books ISBN are all collected from my local bookstore.
