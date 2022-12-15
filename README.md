@@ -1,5 +1,11 @@
 Scrapping Books Data from Book's ISBN
 ======================================
+**In this article**
+ * [Short Background](Chaloklum-Books/README.md#short-background)
+ * [Tools](Chaloklum-Books/README.md#tools)
+ * [Book's ISBN Collecting Process](Chaloklum-Books/README.md#books-isbn-collecting-process)
+ * [Collected Dataset](Chaloklum-Books/README.md#collected-dataset)
+ * [Problems and Obstacles Encountered](Chaloklum-Books/README.md#problems-and-obstacles-encountered)
 
 # Short Background
 All books ISBN are all collected from my local bookstore.
@@ -12,24 +18,27 @@ This bookstore has been open for many years, but never recorded information abou
 
 <img src="https://i.imgur.com/IVh3cZb.jpg" width="500"/>
 
+## A complete code provides here
+ * [Chaloklum-Books/Add_new_books_dataset.ipynb](Chaloklum-Books/Add_new_books_dataset.ipynb)
+
 # Tools
 Here are the lists of tools that I used
-## Books ISBN Collecting
-* Android smart phone 
-* Application: 'Barcode to Text' by 1room
-## Data Retrieving and Management Libraries
-* Python 3.8
-* NumPy 1.21.6
-* Json 2.0.9
-* BeautifulSoup 4.9
-* Requests 2.23
-* Pandas 1.3.5
-## A complete code provides [here](Chaloklum-Books/Add_new_books_dataset.ipynb)
+ ## Books ISBN Collecting
+  * Android smart phone 
+  * Application: 'Barcode to Text' by 1room
+ ## Data Retrieving and Management Libraries
+  * Python 3.8
+  * NumPy 1.21.6
+  * Json 2.0.9
+  * BeautifulSoup 4.9
+  * Requests 2.23
+  * Pandas 1.3.5
+
 # Book's ISBN Collecting Process
-- [X] Scanning all book's barcode in the bookstore using my smartphone and Barcode to Text application.
-  - Barcode of the books represent the ISBN number.
-  - Also during this step I do writing the code with some sample too.
-- [X] Export the ISBN number to .txt here an example how it look like.
+ - [X] Scanning all book's barcode in the bookstore using my smartphone and Barcode to Text application.
+   - Barcode of the books represent the ISBN number.
+   - Also during this step I do writing the code with some sample too.
+ - [X] Export the ISBN number to .txt here an example how it look like.
 
   | books_isbn.txt |
   | --- |
@@ -42,6 +51,7 @@ Here are the lists of tools that I used
   | 6142204340028 |
   | ... |
  - [X] Use Python and some libraries as mentioned above to scrapped the webpage of the book given ISBN number.
+
 # Collected Dataset
 There are over 4000+ books but some books are too old, so there will be no information about it in both Google Books API and Goodreads
 
