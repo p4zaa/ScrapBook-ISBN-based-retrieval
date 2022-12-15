@@ -7,6 +7,9 @@ Scrapping Books Data from Book's ISBN
  * [Collected Dataset](https://github.com/p4zaa/Chaloklum-Books/blob/main/README.md#collected-dataset)
  * [Problems and Obstacles Encountered](https://github.com/p4zaa/Chaloklum-Books/blob/main/README.md#problems-and-obstacles-encountered)
 
+**A complete code provides here**
+ * [Chaloklum-Books/Add_new_books_dataset.ipynb](Chaloklum-Books/Add_new_books_dataset.ipynb)
+
 # Short Background
 All books ISBN are all collected from my local bookstore.
 
@@ -17,9 +20,6 @@ All books ISBN are all collected from my local bookstore.
 This bookstore has been open for many years, but never recorded information about the book or any book trading information. So, I decided to collecting every books as possible in the store by using my phone to scanning every single book barcode for ISBN number and using python to retrieve information of the books from two sources, Google Books and Goodreads. 😃 
 
 <img src="https://i.imgur.com/IVh3cZb.jpg" width="500"/>
-
-## A complete code provides here
- * [Chaloklum-Books/Add_new_books_dataset.ipynb](Chaloklum-Books/Add_new_books_dataset.ipynb)
 
 # Tools
 Here are the lists of tools that I used
