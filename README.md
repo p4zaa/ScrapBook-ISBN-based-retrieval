@@ -8,7 +8,7 @@ Scrapping Books Data from Book's ISBN
  * [Problems and Obstacles Encountered](https://github.com/p4zaa/Chaloklum-Books/blob/main/README.md#problems-and-obstacles-encountered)
 
 **A complete code provides here**
- * [Chaloklum-Books/Add_new_books_dataset.ipynb](Chaloklum-Books/Add_new_books_dataset.ipynb)
+ * [Chaloklum-Books/Add_new_books_dataset.ipynb](https://github.com/p4zaa/Chaloklum-Books/blob/main/Add_new_books_dataset.ipynb)
 
 # Short Story
 All books ISBN are all collected from my local bookstore.
