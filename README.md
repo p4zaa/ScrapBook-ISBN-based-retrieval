@@ -1,7 +1,7 @@
 Scrapping Books Data from Book's ISBN
 ======================================
 **In this article**
- * [Short Background](https://github.com/p4zaa/Chaloklum-Books/blob/main/README.md#short-background)
+ * [Short Story](https://github.com/p4zaa/Chaloklum-Books/blob/main/README.md#short-story)
  * [Tools](https://github.com/p4zaa/Chaloklum-Books/blob/main/README.md#tools)
  * [Book's ISBN Collecting Process](https://github.com/p4zaa/Chaloklum-Books/blob/main/README.md#books-isbn-collecting-process)
  * [Collected Dataset](https://github.com/p4zaa/Chaloklum-Books/blob/main/README.md#collected-dataset)
@@ -10,7 +10,7 @@ Scrapping Books Data from Book's ISBN
 **A complete code provides here**
  * [Chaloklum-Books/Add_new_books_dataset.ipynb](Chaloklum-Books/Add_new_books_dataset.ipynb)
 
-# Short Background
+# Short Story
 All books ISBN are all collected from my local bookstore.
 
 **[Chaloklum Bookshop](https://dustyblu3.notion.site/dustyblu3/Chaloklum-Bookshop-We-sell-over-4000-second-hand-books-b29ecb72cd0f40f6812d96ae8e07eb5b)** is one of the bookstore in [Koh Phangan, Thailand](https://en.wikipedia.org/wiki/Ko_Pha-ngan) which selling over 4000+ second-hand books in many languages such as English, German, French ... etc. 
