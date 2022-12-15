@@ -1,4 +1,4 @@
-Scrapping Books Data Given Book's ISBN
+Scrapping Books Data from Book's ISBN
 ======================================
 
 # Short Background
