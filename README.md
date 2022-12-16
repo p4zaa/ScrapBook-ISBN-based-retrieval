@@ -10,6 +10,9 @@ Scrapping Books Data from Book's ISBN
 **A complete code provides here**
  * [Chaloklum-Books/Add_new_books_dataset.ipynb](https://github.com/p4zaa/Chaloklum-Books/blob/main/Add_new_books_dataset.ipynb)
 
+**Dataset table for playaround in Kaggle here**
+* [Chaloklum Bookshop Dataset](https://www.kaggle.com/datasets/pathompongmuangthong/chaloklum-bookshop-dataset?select=bookList.csv)
+
 # Short Story
 All books ISBN are all collected from my local bookstore.
 
