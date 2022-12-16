@@ -73,3 +73,4 @@ I also do have a [notion page](https://dustyblu3.notion.site/Chaloklum-Bookshop-
  - Some books have indistinct bar codes, covered with price tags, marked in dark ink.
     > Barcodes can still be scanned even if they are slightly damaged. <br />But will not be able to scan at all if the bar code is covered too much.
     
+<a href="https://ibb.co/k0XQ68F"><img src="https://i.ibb.co/Y8hpTkG/IMG-7044.jpg" alt="IMG-7044" border="0"></a>
