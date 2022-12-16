@@ -67,6 +67,8 @@ There are over 4000+ books but some books are too old, so there will be no infor
 
 I also do have a [notion page](https://dustyblu3.notion.site/Chaloklum-Bookshop-Books-Finder-beta-e4d5583000974436979ab191af02f25e) to find the book with this table too!
 
+<a href="https://ibb.co/Kx36pnX"><img src="https://i.ibb.co/tpWBTR4/20220826-053458.jpg" alt="20220826-053458" border="0"></a>
+
 # Problems and Obstacles Encountered
  - Some books have no barcode(less than 5% of the books)
     > Some books doesn't even have the cover :'<
