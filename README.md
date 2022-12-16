@@ -36,6 +36,9 @@ Here list of tools that I used
   * BeautifulSoup 4.9
   * Requests 2.23
   * Pandas 1.3.5
+ ### Data Sources
+  * Google Books API
+  * Goodreads.com
 
 # Book's ISBN Collecting Process
  - [X] Scanning all book's barcode in the bookstore using my smartphone and Barcode to Text application.
