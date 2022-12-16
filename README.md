@@ -22,11 +22,11 @@ This bookstore has been open for many years, but never recorded information abou
 <img src="https://i.imgur.com/IVh3cZb.jpg" width="500"/>
 
 # Tools
-Here are the lists of tools that I used
- ## Books ISBN Collecting
+Here list of tools that I used
+ ### Books ISBN Collecting
   * Android smart phone 
   * Application: 'Barcode to Text' by 1room
- ## Data Retrieving and Management Libraries
+ ### Data Retrieving and Management Libraries
   * Python 3.8
   * NumPy 1.21.6
   * Json 2.0.9
