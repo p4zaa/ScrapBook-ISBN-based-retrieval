@@ -1,4 +1,4 @@
-Scrapping Books Data from Book's ISBN
+ScrapBook: ISBN-based Book Information Retrieval
 ======================================
 **In this article**
  * [Short Story](https://github.com/p4zaa/Chaloklum-Books/blob/main/README.md#short-story)
